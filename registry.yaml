@@ -1,0 +1,5 @@
+services:
+  test-api:
+    apiName: "test-api"
+    host: "http://localhost"
+    port: 8000
